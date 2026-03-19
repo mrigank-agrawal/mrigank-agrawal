@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mrigank Agrawal
 
-<!--
-**mrigank-agrawal/mrigank-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & real estate professional transitioning
+into ML engineering. Based in Manchester, UK.
 
-Here are some ideas to get you started:
+## What I'm currently learning
+- Python fundamentals & data manipulation
+- Machine learning with scikit-learn
+- Deep learning with PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My background
+2 years in finance and real estate — applying
+data intuition to ML problems.
+
+## Projects
+*Building from the ground up — check back soon*
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/mrigank-agrawal/

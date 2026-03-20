@@ -13,7 +13,8 @@ into ML engineering. Based in Manchester, UK.
 data intuition to ML problems.
 
 ## Projects
-*Building from the ground up — check back soon*
+- [ML Journey](https://github.com/mrigank-agrawal/ML-Journey) — 
+  AI for Financial Services, built with real UK market data
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/mrigank-agrawal/

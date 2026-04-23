@@ -1,7 +1,7 @@
 # Hi, I'm Mrigank Agrawal
 
-Finance & real estate professional transitioning
-into ML engineering. Based in Manchester, UK.
+Finance & real estate professional pivoting into financial analysis. Top 10 Bloomberg competition (UK sector analysis). Fast learner focused on data, AI, and emerging tech to drive smarter financial decisions.
+Manchester, Uk
 
 ## What I'm currently learning
 - Python fundamentals & data manipulation
